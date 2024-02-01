@@ -1,4 +1,4 @@
-
+BIG DATA algorithms
 
 main.py included can be used in any enviornment 
 Packages needed : Networkx, numpy, Scipy, sklearn, Matplotlib
