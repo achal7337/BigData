@@ -8,6 +8,6 @@ project files include:
 main file (code)
 
 
-results in different folder
+results 
 page rank computed for bagraph, random  graph, SCC, WCC 
 3 images
